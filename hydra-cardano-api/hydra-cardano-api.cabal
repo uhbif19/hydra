@@ -142,7 +142,7 @@ library
     , cborg
     , containers
     , data-default
-    , ouroboros-network               ==0.1.0.1
+    , ouroboros-network
     , plutus-ledger-api
     , QuickCheck
     , serialise
